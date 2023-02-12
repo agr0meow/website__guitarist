@@ -6,7 +6,7 @@
 ## Изображения
 
 <p>
-    <img src="https://i.ibb.co/r0sXVXT/image.png" width = 300>
+    <img src="https://i.ibb.co/r0sXVXT/image.png" width = 700>
     <img src="https://i.ibb.co/TbBmpHQ/image.png" width = 300>
     <img src="https://i.ibb.co/0YNfBMB/image.png" width = 300>
       
