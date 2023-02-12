@@ -6,9 +6,9 @@
 ## Изображения
 
 <p>
-    <img src="https://i.ibb.co/r0sXVXT/image.png">
-    <img src="https://i.ibb.co/TbBmpHQ/image.png">
-    <img src="https://i.ibb.co/0YNfBMB/image.png">
+    <img src="https://i.ibb.co/r0sXVXT/image.png" width = 300>
+    <img src="https://i.ibb.co/TbBmpHQ/image.png" width = 300>
+    <img src="https://i.ibb.co/0YNfBMB/image.png" width = 300>
       
     
 </p>
